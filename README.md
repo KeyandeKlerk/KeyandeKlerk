@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Flutter and firebase to hopefully be able to make me more productive and completing projects and reaching a higher level of consistency.
 - 💞️ I’m looking to collaborate on any projects that whereby we can allow people have more time for themseleves allowing them to live life to the fullest.
 - 📫 How to reach me: e-mail: keyandeklerk321@gmail.com
-                      tel: +27 65 303 7791
 
 <!---
 KeyandeKlerk/KeyandeKlerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
